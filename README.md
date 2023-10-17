@@ -1,5 +1,3 @@
-[![Build](https://github.com/khaledhosny/ots/actions/workflows/ci.yml/badge.svg)](https://github.com/khaledhosny/ots/actions/workflows/ci.yml)
-[![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/ots.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:ots)
 
 OpenType Sanitizer
 ==================
