@@ -1,4 +1,3 @@
-
 OpenType Sanitizer
 ==================
 
